@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RolandTahker/htmlform.git"
+    "url": "git+https://github.com/RolandTahker/code_kalli.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RolandTahker/htmlform/issues"
+    "url": "https://github.com/RolandTahker/code_kalli/issues"
   },
-  "homepage": "https://github.com/RolandTahker/htmlform#readme",
+  "homepage": "https://github.com/RolandTahker/code_kalli#readme",
   "dependencies": {
     "express": "^4.19.2",
     "pg": "^8.11.5"
