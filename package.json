@@ -18,6 +18,8 @@
   "homepage": "https://github.com/RolandTahker/code_kalli#readme",
   "dependencies": {
     "express": "^4.19.2",
+    "express-handlebars": "^7.1.2",
+    "handlebars": "^4.7.8",
     "pg": "^8.11.5"
   }
 }
